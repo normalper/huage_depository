@@ -1,0 +1,6 @@
+>重载即在函数内将类内成员赋值；
+<<与>>运算符，返回stream&类型
+class& operator=(const class&p){}
+a++类型只能返回class
+>++a和a++的书写顺序；
+>仿函数operator(),重载（）运算符
