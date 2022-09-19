@@ -4,3 +4,6 @@ class& operator=(const class&p){}
 a++类型只能返回class
 >++a和a++的书写顺序；
 >仿函数operator(),重载（）运算符
+
+
+改了个寂寞
